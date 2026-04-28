@@ -1,12 +1,12 @@
 {
-  "version_code": 1,
-  "version_name": "2.0",
+  "version_code": 2,
+  "version_name": "2.1.5",
   "apk_url": "https://github.com/im-israrbrohi/SALU-Bus-Tracker/releases/tag/V2.0",
   "changelog": [
-    "Fixed Several bugs",
-    "Updated the overall app design",
-    "Fixed app sign in issues",
+    "Fixed color inconsistancy from dialogue buttons",
+    "Updated app security to align with new firebase rules",
+    "added strong anti-tempering patches",
     "and Much more"
   ],
-  "force_update": false
+  "force_update": true
 }
